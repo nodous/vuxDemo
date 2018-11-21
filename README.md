@@ -1,27 +1,18 @@
-# demo
+#vux组件demo
 
-> A Vue.js project
+### 使用基于vux的webpakc 组件 
 
-## Build Setup
+1 vue install airyland/vux2 文件名
 
-``` bash
-# install dependencies
-npm install
+2 main.js 路由router 不太好用 被我删了 放在router文件下的index.js中
 
-# serve with hot reload at localhost:8080
-npm run dev
+可以对照vux官网 自己练习 出现bug 来看我的
 
-# build for production with minification
-npm run build
+vux是基于vue的一个组件把 十分好用 
+用起来很容易 但是要熟 多练习 
 
-# build for production and view the bundle analyzer report
-npm run build --report
+本demo是actionsheet 和 alert 的 组件
 
-# run e2e tests
-npm run e2e
+我的微信 欢迎一起学习进步
+ ![avatar](https://ldods.com/wang.jpg)
 
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
